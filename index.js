@@ -1,4 +1,1 @@
-var length = 10;
-var height = 100;
-var width = 200;
-var width = 188;
+var length = 100;
